@@ -1,18 +1,78 @@
-# 💫 About Me:
-🛠 I’m currently working on<br>Developing the Banders Potato App, EduMentor, and an AI-based Cyber Attack Prediction project.<br><br>🤝 I’m looking to collaborate on<br>AI projects, especially in deep learning, neural networks, and mobile app development using Flutter.<br><br>🙏 I’m looking for help with<br>Optimizing deep learning models and enhancing mobile app performance for iOS and Android platforms.<br><br>🌱 I’m currently learning<br>Advanced algorithm design and analysis, Cloud Computing, and exploring AI ethics and explainability issues.<br><br>💬 Ask me about<br>AI, deep learning, neural networks, mobile app development (Flutter).<br><br>⚡ Fun fact<br>I love Airbus planes, swimming, and I’m passionate about electronics and building projects with Arduino.
+### Hi 👋 — I'm Ziad
 
+Software engineer in Dubai. I build production AI systems at **[GE Aerospace](https://www.geaerospace.com/)** by day, and ship consumer + developer products on the side.
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ziadaloush) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zeq_0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ziad-aloush) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@zeq000) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zeck00&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zeck00&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zeck00&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+Portfolio → **[ziad.us](https://ziad.us)** &nbsp;·&nbsp; Now → [ziad.us/now](https://ziad.us/now)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zeck00&icon=2&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+#### Things I've shipped
+
+|   | What it is | Stack |
+|---|---|---|
+| **[trafi.cc](https://trafi.cc)** | Privacy calculator — what your personal data is worth to advertisers, computed from real ARPU. | Next.js · TypeScript |
+| **[Core Cash](https://corecash.us)** | Core-deposit tracker for independent auto repair shops in the US. | Next.js · Postgres |
+| **[Kanz](https://kanz.ziad.us)** | Zakat tracker for UAE Muslims — gold, silver, stocks, crypto, in AED. | Flutter · OCR |
+| **[Life in Weeks](https://lifeinweeks.ziad.us)** | Your life as a 4,000-box grid. | SvelteKit |
+
+More at **[ziad.us/work](https://ziad.us/work)** — 14 projects with hand-written prose.
+
+#### Open source contributions
+
+<details>
+<summary><b><a href="https://github.com/momenbasel/PureMac">momenbasel/PureMac</a></b> &nbsp;·&nbsp; 3.3k★ &nbsp;·&nbsp; Native SwiftUI CleanMyMac alternative &nbsp;·&nbsp; 8 PRs (4 merged · 1 open · 3 closed)</summary>
+
+- merged · [#65](https://github.com/momenbasel/PureMac/pull/65) — Spanish (es) localization + multilingual README
+- merged · [#40](https://github.com/momenbasel/PureMac/pull/40) — hover-to-reveal actions in app file list
+- merged · [#39](https://github.com/momenbasel/PureMac/pull/39) — onboarding animations + per-path permission checks
+- merged · [#38](https://github.com/momenbasel/PureMac/pull/38) — pixel-art retro Mac app icon
+- open &nbsp;&nbsp;· [#70](https://github.com/momenbasel/PureMac/pull/70) — Arabic (ar) localization + sidebar localization fix
+- closed · [#33](https://github.com/momenbasel/PureMac/pull/33) — add onboarding experience
+- closed · [#32](https://github.com/momenbasel/PureMac/pull/32) — add app uninstaller
+- closed · [#31](https://github.com/momenbasel/PureMac/pull/31) — UI overhaul with light / dark mode support
+
+</details>
+
+<details>
+<summary><b><a href="https://github.com/aghyad97/browserytools">aghyad97/browserytools</a></b> &nbsp;·&nbsp; 160★ &nbsp;·&nbsp; 100 browser-based productivity tools, fully client-side &nbsp;·&nbsp; 2 PRs (both merged)</summary>
+
+- merged · [#3](https://github.com/aghyad97/browserytools/pull/3) — sticky scroll implementation
+- merged · [#2](https://github.com/aghyad97/browserytools/pull/2) — mockups tool refactor
+
+</details>
+
+<details>
+<summary><b><a href="https://github.com/NiazMahmud2001/Nexly-An-AgenticAI-Powered-Chatbot-for-UoS-Students-Advising">NiazMahmud2001/Nexly</a></b> &nbsp;·&nbsp; RAG-powered AI advising chatbot for University of Sharjah students &nbsp;·&nbsp; 4 PRs (all merged)</summary>
+
+- merged · [#18](https://github.com/NiazMahmud2001/Nexly-An-AgenticAI-Powered-Chatbot-for-UoS-Students-Advising/pull/18) — WebApp update
+- merged · [#15](https://github.com/NiazMahmud2001/Nexly-An-AgenticAI-Powered-Chatbot-for-UoS-Students-Advising/pull/15) — migrate + refactor `rag-university-chatbot-next` into the web-app
+- merged · [#9](https://github.com/NiazMahmud2001/Nexly-An-AgenticAI-Powered-Chatbot-for-UoS-Students-Advising/pull/9) — Next.js directory restructure + UI updates
+- merged · [#8](https://github.com/NiazMahmud2001/Nexly-An-AgenticAI-Powered-Chatbot-for-UoS-Students-Advising/pull/8) — chat interface styling + functionality
+
+</details>
+
+#### Currently into
+
+- **Production-grade AI** — RAG, agents, evals, the boring infra parts.
+- **Editorial web** — typography-first, no Tailwind, hand-written CSS.
+- **On-device AI on mobile** — camera-first AI / OCR in Flutter.
+
+#### Stack I reach for
+
+`TypeScript` · `SvelteKit` · `Next.js` · `Flutter` · `Python` · `PyTorch` · `Postgres` · `Supabase`
+
+#### Reach me
+
+[ziad.us](https://ziad.us) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/ziad-aloush/) &nbsp;·&nbsp; [zaloushf@gmail.com](mailto:zaloushf@gmail.com) &nbsp;·&nbsp; [book a 30-min call](https://calendar.google.com/calendar/appointments/schedules/AcZssZ0nA2SiK4yXmI39Vbw9UJxrXv2vtLp1gpqszZ_HuhvUAXUEtWRr94KR9rvgvrMqbSwruFsPkYw8?gv=true)
+
+---
+
+<p align="center">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=zeck00&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&card_width=475" />
+</p>
+
+<p align="center">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeck00&hide_border=true&theme=transparent&layout=compact&card_width=475&hide=html,css" />
+</p>
+
+<p align="center"><sub><i>I turn ideas into interfaces people love.</i></sub></p>
