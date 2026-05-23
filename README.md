@@ -13,7 +13,7 @@ Portfolio → **[ziad.us](https://ziad.us)** &nbsp;·&nbsp; Now → [ziad.us/now
 | **[trafi.cc](https://trafi.cc)** | Privacy calculator — what your personal data is worth to advertisers, computed from real ARPU. | Next.js · TypeScript |
 | **[Core Cash](https://corecash.us)** | Core-deposit tracker for independent auto repair shops in the US. | Next.js · Postgres |
 | **[Kanz](https://kanz.ziad.us)** | Zakat tracker for UAE Muslims — gold, silver, stocks, crypto, in AED. | Flutter · OCR |
-| **[Life in Weeks](https://lifeinweeks.ziad.us)** | Your life as a 4,000-box grid. | SvelteKit |
+| **[Life in Weeks](https://inweeks.org)** | Your life as a 4,000-box grid. | SvelteKit |
 
 More at **[ziad.us/work](https://ziad.us/work)** — 14 projects with hand-written prose.
 
